@@ -1,7 +1,5 @@
 
 # Congestion control algorithms
-#
-# Author: Devyani Remulkar
 # Date: 23 April 2024
 import simpy
 import random
@@ -235,3 +233,4 @@ class TCP_Receiver(object):
         self.sndpkt = Packet(seq_num=self.expectedseqnum, payload="ACK", packet_length=self.ack_packet_length)
         self.channel.udt_send(self.sndpkt, -1, 1)
         self.total_packets_sent += 1
+
