@@ -8,7 +8,6 @@
 #	
 #	
 #
-# Author: Devyani Remulkar
 
 
 class Packet(object):
