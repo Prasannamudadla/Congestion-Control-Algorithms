@@ -10,7 +10,6 @@
 #	   deliver_data() method.
 #	- does some basic validation. 
 
-# Author: Devyani Remulkar
 
 
 
