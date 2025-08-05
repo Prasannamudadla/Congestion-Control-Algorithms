@@ -5,7 +5,6 @@
 #		- can get lost, with probability Pl
 #		- reaches the other end after a "propagation_delay" amount of time, if it is not lost.
 #
-# Author: Devyani Remulkar
 
 
 import simpy
