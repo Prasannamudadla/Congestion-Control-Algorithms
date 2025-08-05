@@ -1,6 +1,5 @@
 # Simulation Testbench
 #
-# Author: Devyani Remulkar
 # Date: 23 April 2024
 
 import simpy
